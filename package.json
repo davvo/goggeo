@@ -2,11 +2,12 @@
   "name": "goggeo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/gecoder.js",
   "scripts": {
+    "start": "node lib/server.js",
     "test": "node test/*.js"
   },
-  "author": "",
+  "author": "davvo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
