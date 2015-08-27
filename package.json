@@ -1,0 +1,18 @@
+{
+  "name": "goggeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
