@@ -2,7 +2,7 @@
   "name": "goggeo",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/gecoder.js",
+  "main": "lib/geocoder.js",
   "scripts": {
     "start": "node lib/server.js",
     "test": "node test/*.js"
